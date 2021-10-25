@@ -1,1 +1,1 @@
-export * from './Balances'
+export * from './balances'
